@@ -35,12 +35,10 @@ def sorted_matrix
   
   
   array = [ 
-    ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"],
-    ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
+    ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"].sort,
+    ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"].sort
     ]
     
-  arrarray[0].sort
-    array.sort
     return array
     
     
