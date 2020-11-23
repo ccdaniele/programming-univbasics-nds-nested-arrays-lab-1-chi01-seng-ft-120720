@@ -50,9 +50,9 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  matrix []
+ return  matrix [row][column]
   
-  return array[1][1]
+ 
   
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
